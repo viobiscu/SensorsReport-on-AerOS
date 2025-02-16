@@ -43,3 +43,5 @@ Each sensor type will be integrated as follows:
 ### Termograf MQTT: Direct MQTT communication to a Mosquitto broker.
 
 
+![image](https://github.com/user-attachments/assets/a9e3170c-deca-428d-95fb-d30941bec4a8)
+
