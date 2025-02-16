@@ -1,0 +1,13 @@
+krakend:
+    additionalEndpoints: []
+    config:
+        federatorUrl: http://federator.sensorsreport.com:8050
+        hloAllocatorUrl: http://hlo-allocator-service.default.svc.cluster.local:8082
+        hloFeUrl: http://hlo-fe-service.default.svc.cluster.local:8081
+        iotaAPIUrl: http://iota-api:6000
+        keycloakRealm: sr
+        keycloakUrl: https://keycloak.sensorsreport.com
+        logLevel: ERROR
+        orionCacheDuration: 3600
+        orionUrl: http://orion.sensorsreport.com:31026
+        sharedCacheDuration: 900

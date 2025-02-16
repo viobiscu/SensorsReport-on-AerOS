@@ -1,0 +1,9 @@
+federator:
+    envVars:
+        isEntrypoint: true
+        domain:
+            name: eu.sensorsreport.com
+            description: This is a new domain
+            publicUrl: https://eu.sensorsreport.com
+            owner: Synchro SRL  
+            cbUrl: http://orion.sensorsreport.com:31026
