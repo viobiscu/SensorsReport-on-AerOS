@@ -1,5 +1,8 @@
 # SensorsReport-on-AerOS
 
+The primary objective of this project is to migrate the existing monitoring solution existent at www.sensorsreport.com to the aerOS platform. By doing so, we aims to leverage the advanced features and functionalities offered by aerOS to enhance the overall system performance and reliability. The migration to aerOS will enable the company to optimize resource management, improve orchestration, and increase the resilience of their services. Moreover, aerOS's capabilities in supporting decentralized and scalable applications across the IoT edge-cloud continuum align perfectly with Synchro SRL's vision for the future.
+
+This project is part of the Open Call 2 https://aeros-project.eu/open-call-2/
 ## System Architecture Overview
 The system will follow a microservices-based architecture with the following key components:
 
